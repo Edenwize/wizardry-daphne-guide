@@ -1,4 +1,4 @@
-# Knight Proving Grounds
+# Knight Trials
 
 !!! item "This event is permanently available!"
 
@@ -10,7 +10,8 @@ You can obtain up to 600 Seals of the Knight by completing the trials up the Adv
 
 There are several map variations, and are random upon entering. It is not necessary to explore the whole map, you simply need to make it to the end, defeat a certain number of enemies, and defeat the floor boss. Keep in mind, it only counts as a clear upon talking to the masked knight at the end.
 
-!!! note "All the maps here are the same as that of the Fighter/Mage Proving Grounds."
+!!! note "All the maps here are the same as that of the Fighter/Mage Trials."
+!!! note "All the maps here are the same as that of the Fighter/Mage Trials."
 
 ??? note "Map Variation 1"
     ![](img/knight-map-1.png)

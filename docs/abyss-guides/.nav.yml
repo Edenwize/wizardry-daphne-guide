@@ -26,6 +26,7 @@ nav:
       - Important Request /<br>Greater Warped One: './4-isberg/important-request-gwo.md'
       - Wandering NPCs: './4-isberg/wandering-npcs.md'
   - Ancient Mausoleum: './ancient-mausoleum/maps.md'
+  - Bounties: './bounties/bounties.md'
   - Dens:
       - Den of Earth: './dens/den-of-earth.md'
       - Den of Fire: './dens/den-of-fire.md'
@@ -37,4 +38,8 @@ nav:
       - Symbol of Alliance: './request-from-an-ally/symbol-of-alliance.md'
       - Arna's Past: './request-from-an-ally/arnas-past.md'
       - Memories of Charlotte: './request-from-an-ally/memories-of-charlotte.md'
-  - Bounties: './bounties/bounties.md'
+ - Trials: 
+  - Trials: 
+    - Fighter Trials: './trials/fighter.md'
+    - Mage Trials: './trials/mage.md'
+    - Knight Trials: './trials/knight.md'

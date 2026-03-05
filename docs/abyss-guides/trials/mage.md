@@ -1,4 +1,4 @@
-# Mage Proving Grounds
+# Mage Trials
 
 !!! item "This event is permanently available!"
 
@@ -12,7 +12,8 @@ There are several map variations, and are random upon entering. It is not necess
 
 Keep in mind unique adventurer classes that are "mages" can enter such as Iarumas and Berkanan.
 
-!!! note "All the maps here are the same as that of the Fighter Proving Grounds."
+!!! note "All the maps here are the same as that of the Fighter Trials."
+!!! note "All the maps here are the same as that of the Fighter Trials."
 
 ??? note "Map Variation 1"
     ![](img/mage-map-1.jpg)

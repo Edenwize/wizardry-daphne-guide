@@ -1,4 +1,4 @@
-# Fighter Proving Grounds
+# Fighter Trials
 
 !!! item "This event is now permanently available!"
 
