@@ -13,16 +13,16 @@ There are several map variations, and are random upon entering. It is not necess
 !!! note "All the maps here are the same as that of the Fighter/Mage Proving Grounds."
 
 ??? note "Map Variation 1"
-    ![](img/fighter-map-1.png)
+    ![](img/knight-map-1.png)
 
 ??? note "Map Variation 2"
-    ![](img/fighter-map-2.png)
+    ![](img/knight-map-2.png)
 
 ??? note "Map Variation 3"
-    ![](img/fighter-map-3.png)
+    ![](img/knight-map-3.png)
 
 ??? note "Map Variation 4"
-    ![](img/fighter-map-4.png)
+    ![](img/knight-map-4.png)
 
 ??? note "Tips"
     - Remember to carry potions on all three characters.
