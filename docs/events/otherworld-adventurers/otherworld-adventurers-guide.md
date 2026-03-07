@@ -209,13 +209,20 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 ### Black Dragon Superboss 
 
 !!! warning "Potential Bug" 
-    - There are many players that cannot access this fight even after clearing the second run. We have a confirmed Discord user at Copper Grade that has been able to get the fight. 
+    - There are many players that cannot access this fight even after clearing the second run. We have a confirmed Discord user at Bronze Grade (level 40) that has been able to enter the Otherworld Rift and encounter the superboss. 
     - Unclear if this is a bug or there are additional requirements that have yet to be identified. 
 
-After completing the 2nd Run, you can head back to the chamber in B3F where the Black Dragon used to reside. The screen will glitch upon entering, indicating something has changed. Head to the very back of the chamber, and a path to the side will open into the Other World. Head inside and you'll be placed in an old-school pixelated dungeon where you can pick up two chests and also fight the true version of the Black Draogn.
+??? note "How to Enter the Other World Rift"
 
-??? map "Map Otherworld Rift"
-    ![](img/otherworld-rift.jpg)
+    === "Guide" 
+
+        - After completing Ainikki's 2nd Run return to the Black Dragon's chamber in B3F. The screen will glitch upon entering, indicating something has changed. Note that speaking with the dwarf in the Tavern is not a required step.
+        - Head south to the very end of the chamber where you said goodbye to Ainikki and Iarumas. A path to the side in the far south-east corner is the entry point to the Otherworld Rift. 
+        - Head inside and you will be placed in an old-school pixelated dungeon where you can pick up 2 chests. The Black Dragon Superboss is located in the SE room. You cannot miss him. His field map enemy icon takes up the entire room. 
+
+    === "Map Otherworld Rift" 
+    
+        ![](img/otherworld-rift.jpg)
 
 ??? danger "Black Dragon Superboss Fight"
     ![](img/black-dragon-superboss.png)
@@ -231,7 +238,9 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
     - It is extremely recommended for the player to run a Knight with Knight's Defense, as it will be difficult surviving three turns of damage that easily hits 200-300 damage per action as well as being weakened from the Black Flame Breath.
     - Defeating this dragon may drop a unique Ebonsteel tier 2H Mace called the Black Dragon Warhammer. It has -25 Surety, but has Defense Penetration. This can also drop from the weaker version. In addition, the boss may drop a rare consumable that when used reduces enemy's damage dealt. It's also entirely possible this boss drops nothing.
     - The dragon may also additionally drop a Otherworld Dragon Blood, which is a one-time use consumable that lowers a target's damage dealt by ~10% for 4 turns. This item is somewhat of a rare drop.
-    - To reset this boss, you will need to use the Event button (yellow shield icon). 
+    - For max Compendium pips you need to fight him 5 times. 
+    - To reset the fight you need to use the "Event" button (yellow shield icon) and re-do Ainkki's Second Run including the Ore Collection fetch quest. Normal Cursed Wheeling does not work, but it will reset the 2 chests. 
+
 
 ## Farming
 
@@ -444,7 +453,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         - For the Adventurer's Remains I and II the total cost is 4,800 for both sets of 3. 
         - For the Basic Items (Enhancement Ore, EXP books) the total cost is 2,265.
         - If you plan to clear the shop weekly, then the total cost is 7,065.
-        - Remember that these items are _missable_ and only available for 7 days. They have a countdown-timer (Days Remaining) at the top of their listing. Refresh is every Thursday at 0:00 JST  
+        - Remember that these items are _missable_ and only available for 7 days. They have a countdown-timer (Days Remaining) at the top of their listing. Refresh is every Thursday at 0:00 JST.  
 
     === "Unique Gear Considerations"
 
@@ -494,7 +503,7 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Total Cost of Permanent         |         |   | 93,800 |  
         | Total Cost of Refreshing        |         |   | 4,800  |  
         
-        * Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.
+        *Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.
 
     === "Basic Items"
     
@@ -519,8 +528,8 @@ After completing the 2nd Run, you can head back to the chamber in B3F where the 
         | Total Cost of Permanent         |       |   | 5,365 |  
         | Total Cost of Refreshing        |       |   | 2,265 |  
         
-        * Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.
-        ** Calculations do not include the Amulet Shard. 
+        *Refreshed weekly every Thursday at 0:00 JST, available for 7 days and missable.    
+        **Calculations do not include the Amulet Shard. 
 
 ## Maps
 
